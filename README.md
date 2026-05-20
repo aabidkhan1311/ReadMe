@@ -1,28 +1,140 @@
-<h1 align="center">Hi 👋, I'm Aabid Khan</h1>
-<h3 align="center">Game Developer</h3>
+<h1 align="center">Hey 👋 I'm Aabid Khan</h1>
+<h3 align="center">Full-Stack Developer • AI Builder • Game Developer</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=aabidkhan1311&label=Profile%20views&color=0e75b6&style=flat" alt="aabidkhan1311" /> </p>
-
-
-- 🌱 I’m currently learning **Next.js**
-
-- 💬 Ask me about **Unity Game Engine and C#**
-
-- 🎮 Check out my Android game https://aabidkhan.itch.io/pink-piggy
-
-- 📫 How to reach me **aabidkhan1311@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/aabidkhan1311" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aabidkhan1311" height="30" width="40" /></a>
-<a href="https://instagram.com/ikbenaabid" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ikbenaabid" height="30" width="40" /></a>
+<p align="center">
+  <a href="https://github.com/aabidkhan1311">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00C2FF&center=true&vCenter=true&width=650&lines=Full-Stack+Developer;AI+%26+SaaS+Builder;React+%7C+Next.js+%7C+Flutter;Unity+Game+Developer;Building+Modern+Digital+Experiences" alt="Typing SVG" />
+  </a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.blender.org/" target="_blank" rel="noreferrer"> <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://elixir-lang.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/elixir-lang/elixir-lang-icon.svg" alt="elixir" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://kotlinlang.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> </a> <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a> </p>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=aabidkhan1311&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="aabidkhan1311" />
+</p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=aabidkhan1311&show_icons=true&locale=en&layout=compact" alt="aabidkhan1311" /></p>
+---
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=aabidkhan1311&show_icons=true&locale=en" alt="aabidkhan1311" /></p>
+# 🚀 About Me
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aabidkhan1311&" alt="aabidkhan1311" /></p>
+
+- 🔭 Currently building **products around Travel Company SaaS**
+- 🌱 Learning **Next.js, System Design & Scalable Architectures**
+- 💡 Passionate about **AI, Startups, Web Apps & Product Design**
+- 🎮 Creator of **Pink Piggy** — A Unity game made for NASA Space Apps Challenge
+- 🧠 Building products around **Mental Health & Healthcare Technology**
+- 💬 Ask me about **React, Flutter, Unity, Node.js & C#**
+- ⚡ I love creating products that combine **design + development + business**
+
+---
+
+# 🌐 Connect With Me
+
+<p align="left">
+<a href="mailto:aabidkhan1311@gmail.com" target="blank">
+<img align="center" src="https://skillicons.dev/icons?i=gmail" height="40" width="40" />
+</a>
+
+<a href="https://linkedin.com/in/aabidkhan1311" target="blank">
+<img align="center" src="https://skillicons.dev/icons?i=linkedin" height="40" width="40" />
+</a>
+
+<a href="https://instagram.com/ikbenaabid" target="blank">
+<img align="center" src="https://skillicons.dev/icons?i=instagram" height="40" width="40" />
+</a>
+
+<a href="https://github.com/aabidkhan1311" target="blank">
+<img align="center" src="https://skillicons.dev/icons?i=github" height="40" width="40" />
+</a>
+</p>
+
+<a href="https://my-portfolio-mu-seven-70.vercel.app/" target="blank">
+<img align="center" src="https://skillicons.dev/icons?i=vercel" height="40" width="40" />
+</a>
+</p>
+
+---
+
+# 🌍 Portfolio
+
+🌐 https://my-portfolio-mu-seven-70.vercel.app/
+
+---
+
+# 🛠️ Tech Stack
+
+### 👨‍💻 Languages
+<p>
+<img src="https://skillicons.dev/icons?i=js,ts,python,cs,kotlin,c,cpp" />
+</p>
+
+### 🌐 Frontend
+<p>
+<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,flutter,html,css" />
+</p>
+
+### ⚙️ Backend & Database
+<p>
+<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql,firebase,supabase" />
+</p>
+
+### ☁️ Cloud & Tools
+<p>
+<img src="https://skillicons.dev/icons?i=aws,docker,git,github,figma,postman,vscode" />
+</p>
+
+### 🎮 Game Development
+<p>
+<img src="https://skillicons.dev/icons?i=unity,blender" />
+</p>
+
+---
+
+# 📌 Featured Projects
+
+## 🛍️ RiverDrape
+> A modern fashion e-commerce platform focused on premium UI/UX, scalable architecture, secure payments, and Gen Z shopping experiences.  
+> Built using React, Node.js, Express, MongoDB & Razorpay.
+
+🌐 https://riverdrape.com
+
+---
+
+## ✈️ Trippy Blinders
+> A modern travel company focused on curated travel experiences, premium branding, and immersive digital experiences with a sleek modern web presence.
+
+🌐 https://trippyblinders.com
+
+---
+
+## 🧠 Peacix
+> A mental health platform designed to help people connect with specialists, practice meditation, maintain private journals, track emotional well-being, and improve mental wellness through modern digital experiences.
+
+---
+
+# 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=aabidkhan1311&show_icons=true&theme=tokyonight&hide_border=true" height="170"/>
+  
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=aabidkhan1311&theme=tokyonight&hide_border=true" height="170"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=aabidkhan1311&layout=compact&theme=tokyonight&hide_border=true" height="170"/>
+</p>
+
+---
+
+# 🎯 Current Focus
+
+```txt
+🚀 Building scalable SaaS products
+🧠 Exploring AI integrations
+⚡ Creating premium UI/UX experiences
+🌍 Growing digital-first brands
+```
+
+---
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0ea5e9,100:9333ea&height=120&section=footer"/>
+</p>
